@@ -3,4 +3,4 @@
 
 ### This app changes the class applied to the time block to display a different color depending on what time you use the app!!!
 
-### [Check out the deployed version on pages](willrcline.github.io/time-block-day-planner)
+### [Check out the deployed version on pages](https://willrcline.github.io/time-block-day-planner/)
